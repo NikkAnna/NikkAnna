@@ -39,7 +39,7 @@
 
 <br/> 
 
-## Github Stats
+## Some Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikkAnna&theme=rose_pine)
 <!--
